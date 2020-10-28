@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="fe0a7877-476d-4037-8229-8262b18642f5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator_class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/CalculationProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CalculationProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Calculator_class.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
