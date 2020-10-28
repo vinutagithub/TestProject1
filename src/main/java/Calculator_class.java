@@ -1,5 +1,4 @@
 public class Calculator_class {
-
     int a;
     int b;
 
